@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cultive8\\source\\repos\\BackendAPI_Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{379B2155-200F-4308-BAC7-1A0B8D8E4D12}|BackendAPI_Assignment\\BackendAPI_Assignment.csproj|c:\\users\\cultive8\\source\\repos\\backendapi_assignment\\backendapi_assignment\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379B2155-200F-4308-BAC7-1A0B8D8E4D12}|BackendAPI_Assignment\\BackendAPI_Assignment.csproj|solutionrelative:backendapi_assignment\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379B2155-200F-4308-BAC7-1A0B8D8E4D12}|BackendAPI_Assignment\\BackendAPI_Assignment.csproj|c:\\users\\cultive8\\source\\repos\\backendapi_assignment\\backendapi_assignment\\models\\putproductsdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379B2155-200F-4308-BAC7-1A0B8D8E4D12}|BackendAPI_Assignment\\BackendAPI_Assignment.csproj|solutionrelative:backendapi_assignment\\models\\putproductsdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379B2155-200F-4308-BAC7-1A0B8D8E4D12}|BackendAPI_Assignment\\BackendAPI_Assignment.csproj|c:\\users\\cultive8\\source\\repos\\backendapi_assignment\\backendapi_assignment\\models\\addproductdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379B2155-200F-4308-BAC7-1A0B8D8E4D12}|BackendAPI_Assignment\\BackendAPI_Assignment.csproj|solutionrelative:backendapi_assignment\\models\\addproductdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379B2155-200F-4308-BAC7-1A0B8D8E4D12}|BackendAPI_Assignment\\BackendAPI_Assignment.csproj|c:\\users\\cultive8\\source\\repos\\backendapi_assignment\\backendapi_assignment\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379B2155-200F-4308-BAC7-1A0B8D8E4D12}|BackendAPI_Assignment\\BackendAPI_Assignment.csproj|solutionrelative:backendapi_assignment\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{379B2155-200F-4308-BAC7-1A0B8D8E4D12}|BackendAPI_Assignment\\BackendAPI_Assignment.csproj|c:\\users\\cultive8\\source\\repos\\backendapi_assignment\\backendapi_assignment\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{379B2155-200F-4308-BAC7-1A0B8D8E4D12}|BackendAPI_Assignment\\BackendAPI_Assignment.csproj|solutionrelative:backendapi_assignment\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PutProductsDB.cs",
+              "DocumentMoniker": "C:\\Users\\Cultive8\\source\\repos\\BackendAPI_Assignment\\BackendAPI_Assignment\\Models\\PutProductsDB.cs",
+              "RelativeDocumentMoniker": "BackendAPI_Assignment\\Models\\PutProductsDB.cs",
+              "ToolTip": "C:\\Users\\Cultive8\\source\\repos\\BackendAPI_Assignment\\BackendAPI_Assignment\\Models\\PutProductsDB.cs",
+              "RelativeToolTip": "BackendAPI_Assignment\\Models\\PutProductsDB.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T10:31:54.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddProductDB.cs",
+              "DocumentMoniker": "C:\\Users\\Cultive8\\source\\repos\\BackendAPI_Assignment\\BackendAPI_Assignment\\Models\\AddProductDB.cs",
+              "RelativeDocumentMoniker": "BackendAPI_Assignment\\Models\\AddProductDB.cs",
+              "ToolTip": "C:\\Users\\Cultive8\\source\\repos\\BackendAPI_Assignment\\BackendAPI_Assignment\\Models\\AddProductDB.cs",
+              "RelativeToolTip": "BackendAPI_Assignment\\Models\\AddProductDB.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T10:19:39.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Cultive8\\source\\repos\\BackendAPI_Assignment\\BackendAPI_Assignment\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "BackendAPI_Assignment\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Cultive8\\source\\repos\\BackendAPI_Assignment\\BackendAPI_Assignment\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "BackendAPI_Assignment\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwEYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T09:37:41.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Cultive8\\source\\repos\\BackendAPI_Assignment\\BackendAPI_Assignment\\Data\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "BackendAPI_Assignment\\Data\\ProductDbContext.cs",
+              "ToolTip": "C:\\Users\\Cultive8\\source\\repos\\BackendAPI_Assignment\\BackendAPI_Assignment\\Data\\ProductDbContext.cs",
+              "RelativeToolTip": "BackendAPI_Assignment\\Data\\ProductDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T08:47:52.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Cultive8\\source\\repos\\BackendAPI_Assignment\\BackendAPI_Assignment\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "BackendAPI_Assignment\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Cultive8\\source\\repos\\BackendAPI_Assignment\\BackendAPI_Assignment\\Models\\Product.cs",
+              "RelativeToolTip": "BackendAPI_Assignment\\Models\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T08:46:07.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
